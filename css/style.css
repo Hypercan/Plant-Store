@@ -1,0 +1,70 @@
+#header-title {
+    color: #FEB139;
+    text-align: center;
+    font-family: 'DynaPuff', cursive;
+    font-size: 60px;
+    text-shadow: #3AB4F2 2px 2px 3px;
+}
+
+h1 {
+    font-size: 30px;
+}
+
+#nav-css {
+    font-family: 'DynaPuff', cursive;
+    font-size: 20px;
+}
+
+/*********Hover*******/
+a:link {
+    color: #3AB4F2;
+}
+
+a:visited {
+    color: blueviolet;
+}
+
+a:hover {
+    color: greenyellow;
+}
+
+a:active {
+    color: yellow;
+}
+
+/*********Hover*******/
+
+#main-font {
+    color: lightskyblue;
+    text-align: center;
+    font-family: 'DynaPuff', cursive;
+    font-size: 16px;
+
+}
+
+hr {
+    border: 3px solid #94B49F;
+}
+
+body {
+    background-color: #CEE5D0;
+}
+
+.plant {
+    text-align: center;
+    padding-right: 50px;
+    margin: 5px;
+    text-align: center;
+    float: left;
+}
+
+.img-plant {
+    border: 3px solid lightskyblue;
+    border-radius: 10px;
+    border-width: 5px;
+}
+
+h5 {
+    font-size: 20px;
+    color: dimgrey;
+}
